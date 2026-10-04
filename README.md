@@ -23,7 +23,7 @@ python debugger.py examples/buggy_average.py
 ```
 
 전체 사용법은 [MANUAL.md](MANUAL.md), 구현에서 배운 내용은
-[BLOG_POST.md](BLOG_POST.md), 추가 기능의 구현 전 명세는
+[게시된 블로그 글](https://katarinabluu-gosegulover.github.io/Hercent.github.io/posts/my-python-debugger/), 추가 기능의 구현 전 명세는
 [FEATURE_SPEC.md](FEATURE_SPEC.md), 실행 검증 결과는 [VERIFICATION.md](VERIFICATION.md)에서
 볼 수 있다. 피드백에 따른 블로그 보완 내역은 [REVISION_NOTES.md](REVISION_NOTES.md)에
 정리했다.
@@ -50,7 +50,6 @@ python -m unittest discover -s tests -v
 python-mini-debugger/
 ├── debugger.py                 # 디버거와 CLI
 ├── MANUAL.md                   # 사용자 매뉴얼
-├── BLOG_POST.md                # 게시 가능한 블로그 원고
 ├── FEATURE_SPEC.md             # 구현 전 추가 기능 명세
 ├── VERIFICATION.md             # 테스트 및 실행 검증 보고서
 ├── REVISION_NOTES.md           # 피드백 반영 및 재제출 보고서

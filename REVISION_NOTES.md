@@ -1,7 +1,7 @@
 # 재제출 수정 보고서
 
 - 수정일: 2026-10-04 (Asia/Seoul)
-- 대상: `BLOG_POST.md`
+- 대상: [게시된 블로그 글](https://katarinabluu-gosegulover.github.io/Hercent.github.io/posts/my-python-debugger/)
 
 ## 피드백 반영 내용
 
